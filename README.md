@@ -36,7 +36,7 @@ const sectionName = "MAIN_LANGUAGES";
 ```ts
 const sectionName = "FRAMEWORKS";
 ```
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,nodejs,tailwind,pandas,matplotlib)](#)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,nodejs,tailwind)](#)
 ```ts
 const sectionName = "SYSTEMS";
 ```
